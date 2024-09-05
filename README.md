@@ -2,4 +2,4 @@
 
 This is the official repository of for the submission to the Do I Know You PS by Pool Aryans. 
 
-Model Link - 
+Model Link - https://huggingface.co/ProElectro07/AryanSuperLLM
