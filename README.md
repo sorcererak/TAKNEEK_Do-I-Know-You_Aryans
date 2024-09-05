@@ -1,5 +1,5 @@
-# TAKNEEK_Do-You-Know-Me_Aryans
+# TAKNEEK_Do-I-Know-You_Aryans
 
-This is the official repository of for the submission to the Do You Know Me PS by Pool Aryans. 
+This is the official repository of for the submission to the Do I Know You PS by Pool Aryans. 
 
 Model Link - 
